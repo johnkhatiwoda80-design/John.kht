@@ -18,7 +18,7 @@ user-select: none;
 
 html, body {
 width: 100%;
-height: 100%;
+height: 50%;
 overflow: hidden;
 touch-action: manipulation;
 }
